@@ -4,7 +4,7 @@ $:.unshift File.expand_path("../lib", __FILE__)
 require "active_model/serializers/version"
 
 Gem::Specification.new do |gem|
-  gem.authors       = ["José Valim", "Yehuda Katz"]
+  gem.authors       = ["Jose Valim", "Yehuda Katz"]
   gem.email         = ["jose.valim@gmail.com", "wycats@gmail.com"]
   gem.description   = %q{Making it easy to serialize models for client-side use}
   gem.summary       = %q{Bringing consistency and object orientation to model serialization. Works great for client-side MVC frameworks!}
